@@ -1,0 +1,301 @@
+# Page settings
+
+baseURL = "https://richdmart.in"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "Richard Martin"
+    description = "International Business Student & Casual Developer"
+
+
+    primaryColor = "#c0392b"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Richard Martin"
+        tagline = "International Business Student & Casual Developer"
+        avatar = "avatar.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Knoxville, Tennessee"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "(865) 274-9603"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "inbox@richdmart.in"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "www.richdmart.in"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://dropbyte.ch"
+        text = "www.dropbyte.ch"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "JavaScript/React, HTML & CSS"
+        [[params.skills.list.items]]
+        details = "Python & Java"
+        [[params.skills.list.items]]
+        details = "Microsoft Office, Adobe Creative Cloud"
+        [[params.skills.list.items]]
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Effective communicator"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Hard worker"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Major in International Business"
+        university = "Maryville College"
+        dates = "2018-2021"
+        [[params.education.list]]
+        degree = "Major in Computer Science"
+        university = "East Tennessee State University"
+        dates = "2016-2018"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Native"
+        [[params.languages.list]]
+        name = "German"
+        level = "Conversational"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Running"
+        [[params.interests.list]]
+        name = "Guitar"
+        [[params.interests.list]]
+        name = "Coding"
+        [[params.interests.list]]
+        name = "Video Games"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "I am an international business student at Maryville College, and I work part-time at Anderson Busby PLLC, a law firm based in Knoxville. I am also working on a side project, DropByte, which is a remote tech support company aimed at teaching people how to use their tech, all while addressing their technical problems. In my free time, I enjoy running, coding, playing guitar, and playing video games."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Law Runner"
+        dates = "Mar 2020 - Present"
+        company = "Anderson Busby PLLC"
+        details = "Delivered and drafted legal documents"
+        [[params.experience.list.items]]
+        details = "Clerical work, including filing and organizing"
+        [[params.experience.list.items]]
+        details = "Delivery of legal documents to Courts, other firms, and clients"
+        [[params.experience.list.items]]
+        details = "Drafting and organization of legal documents"
+
+        [[params.experience.list]]
+        title = "Server"
+        dates = "May 2019 - Nov 2019"
+        company = "Calhoun's Restaurant"
+        details = "Ensured a satisfactory dining experience for guests"
+
+        [[params.experience.list]]
+        title = "Marketing Intern"
+        dates = "Sept 2018 - May 2019"
+        company = "Metz Culinary Management"
+        details = "Organized and implemented a marketing program for on-campus dining"
+
+        [[params.experience.list]]
+        title = "Assistant Manager"
+        dates = "Jun 2017 - Aug 2018"
+        company = "Neighborhood Nerds"
+        details = "Developed documentation and business infrastructure for day-to-day operations"
+
+        [[params.experience.list]]
+        title = "IT Support Technician"
+        dates = "May 2017 - Jun 2018"
+        company = "Neighborhood Nerds"
+        details = "Worked with members to provide reliable tech support and form customer relationships"
+
+        [[params.experience.list]]
+        title = "Network Technician"
+        dates = "Jan 2017 - Jan 2018"
+        company = "Structured Solutions"
+        details = "Installed network wiring in residential areas and configured large networks"
+
+        [[params.experience.list]]
+        title = "Server"
+        dates = "Feb 2016 - Aug 2016"
+        company = "Dean's Restaurant & Bakery"
+        details = "Provided quality service consistent with a small, local diner experience"
+
+
+
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "DropByte"
+        meta = "Remote Tech Support"
+        tagline = "DropByte is a tech support company which operates over Zoom video chat to provide quick and accessible service to clients. Additionally, DropByte develops proprietary tech guides aimed at teaching clients how to use their technology so that they can better utilize their devices."
+
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2020 · Multinational Corporations in Global Politics: Influence and Development"
+        [[params.information.list.items]]
+        details = "2020 · Appalachia Behind the Fence"
+	[[params.information.list.items]]
+        details = "2019 · Interfaith Dialogue and Religious Tensions"
+	[[params.information.list.items]]
+        details = "2019 · Life in the First Global Civilization"
+	[[params.information.list.items]]
+        details = "2019 · Truth and Reconciliation in the United States"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/richdmartin"
+        title = "richdmartin"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/richdmartin"
+        title = "richdmartin"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/richdmartin"
+        title = "@richdmartin"
+
+
+
+
+
