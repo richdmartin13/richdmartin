@@ -1,7 +1,6 @@
-baseURL = "https://rdm-web.web.app"
+baseURL = "https://richdmart.in"
 googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en"
-title = ""
 theme = "hugo-devresume-theme"
 title = "Richard Martin"
 [params]
