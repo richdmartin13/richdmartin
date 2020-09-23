@@ -125,7 +125,7 @@ name = "English"
 level = "Conversational"
 name = "German"
 [params.profile]
-avatar = "avatar.png"
+avatar = "public/assets/images/avatar.png"
 enable = true
 name = "Richard Martin"
 tagline = "International Business Student & Founder of DropByte Remote Tech Support"
