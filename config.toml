@@ -1,4 +1,4 @@
-baseURL = "https://richdmart.in"
+baseURL = "https://richdmart.in/"
 googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en"
 theme = "hugo-devresume-theme"
@@ -10,14 +10,7 @@ primaryColor = "#c0392b"
 textPrimaryColor = "#292929"
 [params.awards]
 enable = false
-[[params.awards.list]]
-body = "Microsoft lorem ipsum"
-date = "2019"
-name = "Award Lorem Ipsum"
-[[params.awards.list]]
-body = "Oracle Aenean"
-date = "2017"
-name = "Award Donec Sodales"
+list = []
 [params.contact]
 enable = true
 location = "Knoxville, Tennessee"
@@ -125,7 +118,7 @@ name = "English"
 level = "Conversational"
 name = "German"
 [params.profile]
-avatar = "assets/images/avatar.png"
+avatar = "avatar.png"
 enable = true
 name = "Richard Martin"
 tagline = "International Business Student"
