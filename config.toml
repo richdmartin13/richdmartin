@@ -114,6 +114,8 @@ name = "Guitar"
 name = "Coding"
 [[params.interests.list]]
 name = "Video Games"
+[[params.interests.list]]
+name = "Fishing"
 [params.languages]
 enable = true
 [[params.languages.list]]
