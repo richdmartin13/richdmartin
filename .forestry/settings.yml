@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Root Directory
+- type: directory
+  path: ''
+  label: richdmartin
+  create: all
+  match: "**/*"
+- type: heading
+  label: Files
 - type: document
   path: config.toml
   label: Config
