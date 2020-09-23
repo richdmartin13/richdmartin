@@ -128,7 +128,7 @@ name = "German"
 avatar = "assets/images/avatar.png"
 enable = true
 name = "Richard Martin"
-tagline = "International Business Student & Founder of DropByte Remote Tech Support"
+tagline = "International Business Student"
 [params.projects]
 enable = true
 [[params.projects.list]]
