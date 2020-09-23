@@ -118,7 +118,7 @@ name = "English"
 level = "Conversational"
 name = "German"
 [params.profile]
-avatar = "avatar.png"
+avatar = "images/avatar.png"
 enable = true
 name = "Richard Martin"
 tagline = "International Business Student"
