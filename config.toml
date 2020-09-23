@@ -1,4 +1,4 @@
-baseURL = "https://richdmart.in"
+baseURL = "https://richdmart.in/"
 googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en"
 theme = "hugo-devresume-theme"
