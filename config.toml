@@ -44,7 +44,7 @@ university = "East Tennessee State University"
 enable = true
 [[params.experience.list]]
 company = "Anderson Busby PLLC"
-dates = "Mar 2020 - Present"
+dates = "Mar 2020 - May 2021"
 details = "Delivered and drafted legal documents"
 title = "Law Runner"
 [[params.experience.list.items]]
