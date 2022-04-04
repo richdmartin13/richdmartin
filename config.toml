@@ -1,0 +1,99 @@
+baseURL = "/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio-hugo"
+title = "Richard Martin"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Service"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Resume"
+url = "#resume"
+weight = 5
+[[menu.main]]
+name = "Skills"
+url = "#skills"
+weight = 6
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 7
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 8
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About Me"
+url = "#about"
+weight = 1
+[[menu.sitemap]]
+name = "Meet & Greet"
+url = "http://meet.richdmart.in"
+weight = 2
+# [[menu.sitemap]]
+# name = "Frequently Asked Questions"
+# url = "#"
+# weight = 2
+# [[menu.sitemap]]
+# name = "Privacy Policy"
+# url = "#"
+# weight = 3
+# [[menu.sitemap]]
+# name = "Latest Article"
+# url = "#"
+# weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "http://meet.richdmart.in"
+copyright = "Richard Martin"
+footerLogo = "images/logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/logo.png"
+
+[params.address]
+address = "Nomad"
+email = "rich@richdmart.in"
+openingHours = "Here when you need me"
+phone = "(865) 274-9603"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/richdmartin13"
+weight = 2
+[[params.social]]
+icon = "fa-linkedin"
+url = "https://www.linkedin.com/in/richdmartin"
+weight = 2
+[[params.social]]
+icon = "fa-github"
+url = "https://www.github.com/richdmartin13"
+weight = 3
+[[params.social]]
+icon = "fa-twitter"
+url = "https://twitter.com/richdmartin"
+weight = 4

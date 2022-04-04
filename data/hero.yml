@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I'm Richard
+content: >
+  # I am here for your personal business
+
+  
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/hero.jpg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

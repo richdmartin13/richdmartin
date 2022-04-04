@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My broad-knowledge approach allows me to work in any environment and with any kind of business.
+  I'm adaptable and willing to learn, but I thrive with detailed work.
+
+image: images/skill/cards.JPG
+
+skill:
+  - title: HTML, CSS & Javascript
+    percent: 80
+  - title: Computer Hardware & Software
+    percent: 70
+  - title: Network Systems & Routing
+    percent: 70
+  - title: Business Strategy & Operations
+    percent: 75

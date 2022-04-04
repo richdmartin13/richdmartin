@@ -1,0 +1,71 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### B.A. International Business
+      
+      Maryville College
+
+      - Cross Country Team Captain
+
+      - Lads Ensemble Choir Member
+    time: 2018-2021
+  - content: >
+      #### Studied Computer Science
+      
+      East Tennessee State University
+      
+      - President & Founder of ETSU Skate Club
+    time: 2016-2018 
+
+experience:
+  - content: >
+      #### Freelance Web Development & Tech Support | International
+      
+      I operate two services for web development and tech support - Orbital Web and Swiftech, respectively. Though they are under the freelance umbrella, 
+      they operate as sole-proprietor businesses.
+    time: 2020-Present
+  - content: >
+      #### Priority Business Brokers & Adverco, Inc. | Knoxville, TN
+      
+      Learned about the process of business brokering and trained under Adverco as a potential business sale.
+    time: May 2021 - July 2021
+  - content: >
+      #### Anderson Busby, PLLC | Knoxville, TN
+      
+      Performed as a Runner and Clerk for the legal office of Anderson Busby. I assisted in Estate and Business formation documents, computer and cabinet organization,
+      and improved operations with computer scripts and organizational strategies.
+    time: March 2020 - May 2021
+  - content: >
+      #### Calhoun's Restaurant | Knoxville & Maryville, TN
+      
+      Served meals and provided an excellent experience to guests of the restaurant by providing recommendations, responding to requests, and resetting the area for new guests.
+    time: May 2019 - November 2019
+  - content: >
+      #### Metz Culinary Marketing Intership | Maryville, TN
+      
+      Organized events and created marketing materials for the on-campus dining and catering company at Maryville College.
+    time: 2001-2005
+  - content: >
+      #### Neighborhood Nerds | Knoxville, TN
+      
+      Honed expertise with computer service and repair, coupled with customer experience. Taught lessons, built the company brand, designed and documented processes, and worked with employees.
+    time: May 2017 - August 2018
+  - content: >
+      #### Structured Solutions, LLC | Knoxville & Johnson City, TN
+      
+      Wired and configured networks for apartments, homes and businesses. Developed an attention to detail and efficiency, in addition to robust networking knowledge.
+    time: January 2017 - January 2018
+  - content: >
+      #### Dean's Restaurant & Bakery | Oak Ridge, TN
+      
+      Entered the workforce as a server, learning about sales, customer experience and basic business operations.
+    time: February 2016 - August 2016

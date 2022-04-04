@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Expand your digital reach with web development or tech support services, guided by a degree in International Business and fueled by passion.
+content: >
+  ### I want to do things differently - and help others, too.
+
+  I always had a self-starter mindset, even when I was a kid. I detested school because of the rules,
+  and I did the usual lawn mowing hustle to buy my first computer. I largely taught myself to code, with some 
+  help from high school and college classes, and I taught myself most of the guitar I know.
+  Since I couldn't nail down what I really wanted to do, I studied International Business because I believed that
+  it would help me achieve my goals. Since graduating, I've taken a 3-month solo trip around Europe and returned to the 
+  US to build up my freelance work enough to persue a longer-term digital nomad lifestyle.
+button1Name: Hire me
+button2Name: See my Resume
+button1Target: contact
+button2Target: https://richdmartin.oneresume.us
+image: images/about/about-img.JPEG

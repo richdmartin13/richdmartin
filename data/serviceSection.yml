@@ -1,0 +1,30 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  I'm here to swim upstream and help others do the same. I primarily offer web development 
+  services and technical support, but I have knowledge and experience in some other areas.
+
+service:
+  - content: >
+      #### Orbital Web
+
+      I create and maintain websites using ReactJS, Hugo or Wordpress for my personal services, nonprofits and other clients.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Swiftech
+
+      I provide remote technical support, harware repair, and network installation services.
+    image: images/service/web.svg
+  - content: >
+      #### Tutoring & Lessons
+
+      Based on my programming and musical knowledge, I can offer lessons via Zoom for coding projects and guitar.
+    image: images/service/creative.svg
+  - content: >
+      #### Business Strategy
+
+      Informed by my studies and personal experience, I am able to consult on business operations and strategy.
+    image: images/service/branding.svg
